@@ -1,0 +1,6 @@
+{
+  "name": "DOĞAN OTO",
+  "description": "Oto tamirhane operasyon ve randevu yönetimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
